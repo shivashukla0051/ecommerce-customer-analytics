@@ -5,7 +5,7 @@ End-to-end E-Commerce Data Analytics project featuring RFM Segmentation, Cohort 
 ## 📌 Project Overview
 This project is an end-to-end data analytics and business intelligence solution designed to extract actionable insights from a real-world Brazilian e-commerce dataset (Olist). The primary goal is to bridge the gap between customer behavior and supply chain logistics by optimizing marketing strategies through advanced segmentation, and tracking delivery performance across different regions.
 
-🔗 (https://public.tableau.com/views/Ecommerce_Customer_Analytics/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+🔗 **(https://public.tableau.com/views/Ecommerce_Customer_Analytics/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
 
 ## 🛠️ Tech Stack & Skills
 * **Database & Querying:** SQL (MySQL / PostgreSQL) – *Complex Joins, Window Functions, CTEs, Data Aggregation.*
