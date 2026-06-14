@@ -1,6 +1,8 @@
 # ecommerce-customer-analytics
 End-to-end E-Commerce Data Analytics project featuring RFM Segmentation, Cohort Retention, and Funnel Analysis using SQL and Tableau
 # 🛒 E-Commerce Customer & Operations Analytics 
+<img width="2838" height="1354" alt="Dashboard 1" src="https://github.com/user-attachments/assets/c2f4a9b6-c953-41c2-9e9a-89e0c61fc5b2" />
+
 
 ## 📌 Project Overview
 This project is an end-to-end data analytics and business intelligence solution designed to extract actionable insights from a real-world Brazilian e-commerce dataset (Olist). The primary goal is to bridge the gap between customer behavior and supply chain logistics by optimizing marketing strategies through advanced segmentation, and tracking delivery performance across different regions.
