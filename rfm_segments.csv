@@ -1,0 +1,8 @@
+rfm_segment,customer_count,pct_of_customers,avg_spend,avg_orders,avg_days_since_purchase,total_revenue_contribution
+Champions,4934,12.76,41035.21,2.52,72,202467728.48
+"Loyal Customers",12883,33.32,14683.34,1.26,210,189165470.44
+"Lost Customers",10085,26.09,13455.52,1.00,552,135698957.48
+"At Risk",5378,13.91,18196.91,1.31,465,97862969.56
+"New Customers",4877,12.62,13541.63,1.00,89,66042537.64
+"Potential Loyalists",242,0.63,23177.73,1.00,203,5609010.24
+"Needs Attention",260,0.67,4112.34,1.00,204,1069207.48
